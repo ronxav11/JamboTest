@@ -7,6 +7,8 @@ module.exports={
 
        // locator for the keyword text area 
        searchKeywordtxt : "#searchKeyword",
+
+       // adding some changes
        
         // locator for the dudedate section
        duedateSection : '//duedate',
